@@ -1,4 +1,4 @@
-# Andoid-Fonts-APK
+# Android-Fonts-APK
 將開源字形轉換成APK檔，方便系統進行替換
 
 ### 字形
