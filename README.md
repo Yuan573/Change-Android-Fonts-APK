@@ -6,6 +6,8 @@
 以思源黑體2.001為底，融合標準寫法與傳統寫法。
 - [思源柔黑體](http://jikasei.me/font/genjyuu/)  
 將思源黑體1.0轉換為圓體。
+- [思源真黑體](http://jikasei.me/font/genshin/)  
+將思源黑體1.0調整邊角。  
 
 ### 字重
 - ```Regular```  
