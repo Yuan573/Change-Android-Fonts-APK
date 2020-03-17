@@ -4,6 +4,8 @@
 ### 字形
 - [昭源黑體](https://tamcy.github.io/chiron-sans-hk/)  
 以思源黑體2.001為底，融合標準寫法與傳統寫法。
+- [粉圓字體](https://justfont.com/huninn/)    
+justfont設計師基於Kosugi Maru改作的開源字型。
 - [思源柔黑體](http://jikasei.me/font/genjyuu/)  
 將思源黑體1.0轉換為圓體。
 - [思源真黑體](http://jikasei.me/font/genshin/)  
