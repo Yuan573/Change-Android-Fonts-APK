@@ -2,7 +2,7 @@
 將開源字形轉換成APK檔，方便系統進行替換
 
 ### 字形
-- [昭源黑體](https://tamcy.github.io/chiron-sans-hk/)  
+- [昭源黑體 2.042](https://chiron-fonts.github.io/sans/)  
 以思源黑體2.001為底，融合標準寫法與傳統寫法。
 - [粉圓字體](https://justfont.com/huninn/)    
 justfont設計師基於Kosugi Maru改作的開源字型。
