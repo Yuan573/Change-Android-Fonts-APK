@@ -2,6 +2,8 @@
 將開源字形轉換成APK檔，方便系統進行替換
 
 ### 字形
+- [芫荽字體](https://github.com/ButTaiwan/iansui)
+基於 Fontworks 的 Klee One 衍生的開源正體中文字型。
 - [昭源黑體 2.042](https://chiron-fonts.github.io/sans/)  
 以思源黑體2.001為底，融合標準寫法與傳統寫法。
 - [粉圓字體](https://justfont.com/huninn/)    
